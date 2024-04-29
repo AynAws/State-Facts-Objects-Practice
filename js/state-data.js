@@ -2,7 +2,7 @@ var stateData = {
 	usa: {
 		name: 'United States of America',
 		abbr: 'USA',
-		capitol: 'Washington, District of Columbia',
+		capital: 'Washington, District of Columbia',
 		pop: '320,843,000',
 		statehood: '1776',
 		mammal: 'N/A',
@@ -14,7 +14,7 @@ var stateData = {
 	al: {
 		name: 'Alabama',
 		abbr: 'AL',
-		capitol: 'Montgomery',
+		capital: 'Montgomery',
 		pop: '4,849,377',
 		statehood: '1819',
 		mammal: 'Black Bear',
@@ -26,7 +26,7 @@ var stateData = {
 	ak: {
 		name: 'Alaska',
 		abbr: 'AK',
-		capitol: 'Juneau',
+		capital: 'Juneau',
 		pop: '735,132',
 		statehood: '1959',
 		mammal: 'Bowhead Whale',
@@ -38,7 +38,7 @@ var stateData = {
 	az: {
 		name: 'Arizona',
 		abbr: 'AZ',
-		capitol: 'Phoenix',
+		capital: 'Phoenix',
 		pop: '6,626,624',
 		statehood: '1912',
 		mammal: 'Ringtail',
@@ -50,7 +50,7 @@ var stateData = {
 	ar: {
 		name: 'Arkansas',
 		abbr: 'AR',
-		capitol: 'Little Rock',
+		capital: 'Little Rock',
 		pop: '2,959,373',
 		statehood: '1836',
 		mammal: 'White-Tailed Deer',
@@ -62,7 +62,7 @@ var stateData = {
 	ca: {
 		name: 'California',
 		abbr: 'CA',
-		capitol: 'Sacramento',
+		capital: 'Sacramento',
 		pop: '38,332,521',
 		statehood: '1850',
 		mammal: 'California Grizzly Bear',
@@ -74,7 +74,7 @@ var stateData = {
 	co: {
 		name: 'Colorado',
 		abbr: 'CO',
-		capitol: 'Denver',
+		capital: 'Denver',
 		pop: '5,268,367',
 		statehood: '1876',
 		mammal: 'Rocky Mountain Bighorn Sheep',
@@ -86,7 +86,7 @@ var stateData = {
 	ct: {
 		name: 'Connecticut',
 		abbr: 'CT',
-		capitol: 'Hartford',
+		capital: 'Hartford',
 		pop: '3,596,080',
 		statehood: '1788',
 		mammal: 'Sperm Whale',
@@ -98,7 +98,7 @@ var stateData = {
 	de: {
 		name: 'Delaware',
 		abbr: 'DE',
-		capitol: 'Dover',
+		capital: 'Dover',
 		pop: '925,749',
 		statehood: '1787',
 		mammal: 'Grey Fox',
@@ -110,7 +110,7 @@ var stateData = {
 	fl: {
 		name: 'Florida',
 		abbr: 'FL',
-		capitol: 'Tallahassee',
+		capital: 'Tallahassee',
 		pop: '19,552,860',
 		statehood: '1845',
 		mammal: 'Florida Panther',
@@ -122,7 +122,7 @@ var stateData = {
 	ga: {
 		name: 'Georgia',
 		abbr: 'GA',
-		capitol: 'Atlanta',
+		capital: 'Atlanta',
 		pop: '9,992,167',
 		statehood: '1788',
 		mammal: 'Right Whale',
@@ -134,7 +134,7 @@ var stateData = {
 	hi: {
 		name: 'Hawaii',
 		abbr: 'HI',
-		capitol: 'Honolulu',
+		capital: 'Honolulu',
 		pop: '1,404,054',
 		statehood: '1959',
 		mammal: 'Monk Seal',
@@ -146,7 +146,7 @@ var stateData = {
 	id: {
 		name: 'Idaho',
 		abbr: 'ID',
-		capitol: 'Boise',
+		capital: 'Boise',
 		pop: '1,612,136',
 		statehood: '1890',
 		mammal: 'Appaloosa Horse',
@@ -158,7 +158,7 @@ var stateData = {
 	il: {
 		name: 'Illinois',
 		abbr: 'IL',
-		capitol: 'Springfield',
+		capital: 'Springfield',
 		pop: '12,882,135',
 		statehood: '1818',
 		mammal: 'White-tailed Deer',
@@ -170,7 +170,7 @@ var stateData = {
 	il: {
 		name: 'Illinois',
 		abbr: 'IL',
-		capitol: 'Springfield',
+		capital: 'Springfield',
 		pop: '12,882,135',
 		statehood: '1818',
 		mammal: 'White-Tailed Deer',
@@ -182,7 +182,7 @@ var stateData = {
 	'in': {
 		name: 'Indiana',
 		abbr: 'IN',
-		capitol: 'Indianapolis',
+		capital: 'Indianapolis',
 		pop: '6,570,902',
 		statehood: '1816',
 		mammal: 'N/A',
@@ -194,7 +194,7 @@ var stateData = {
 	ia: {
 		name: 'Iowa',
 		abbr: 'IA',
-		capitol: 'Des Moines',
+		capital: 'Des Moines',
 		pop: '3,090,416',
 		statehood: '1846',
 		mammal: 'N/A',
@@ -206,7 +206,7 @@ var stateData = {
 	ks: {
 		name: 'Kansas',
 		abbr: 'KS',
-		capitol: 'Topeka',
+		capital: 'Topeka',
 		pop: '3,090,416',
 		statehood: '1861',
 		mammal: 'American Buffalo',
@@ -218,7 +218,7 @@ var stateData = {
 	ky: {
 		name: 'Kentucky',
 		abbr: 'KY',
-		capitol: 'Frankfort',
+		capital: 'Frankfort',
 		pop: '4,395,295',
 		statehood: '1792',
 		mammal: 'Gray Squirrel',
@@ -230,7 +230,7 @@ var stateData = {
 	la: {
 		name: 'Louisiana',
 		abbr: 'LA',
-		capitol: 'Baton Rouge',
+		capital: 'Baton Rouge',
 		pop: '4,625,470',
 		statehood: '1812',
 		mammal: 'Black Bear',
@@ -242,7 +242,7 @@ var stateData = {
 	me: {
 		name: 'Maine',
 		abbr: 'ME',
-		capitol: 'Augusta',
+		capital: 'Augusta',
 		pop: '4,625,470',
 		statehood: '1820',
 		mammal: 'Moose',
@@ -254,7 +254,7 @@ var stateData = {
 	md: {
 		name: 'Maryland',
 		abbr: 'MD',
-		capitol: 'Annapolis',
+		capital: 'Annapolis',
 		pop: '4,625,470',
 		statehood: '1788',
 		mammal: 'Thoroughbred Horse',
@@ -266,7 +266,7 @@ var stateData = {
 	ma: {
 		name: 'Massachusetts',
 		abbr: 'MA',
-		capitol: 'Boston',
+		capital: 'Boston',
 		pop: '6,692,824',
 		statehood: '1788',
 		mammal: 'Right Whale',
@@ -278,7 +278,7 @@ var stateData = {
 	mi: {
 		name: 'Michigan',
 		abbr: 'MI',
-		capitol: 'Lansing',
+		capital: 'Lansing',
 		pop: '9,895,622',
 		statehood: '1837',
 		mammal: 'White-Tailed Deer',
@@ -290,7 +290,7 @@ var stateData = {
 	mn: {
 		name: 'Minnesota',
 		abbr: 'MN',
-		capitol: 'Saint Paul',
+		capital: 'Saint Paul',
 		pop: '5,420,380',
 		statehood: '1858',
 		mammal: 'N/A',
@@ -302,7 +302,7 @@ var stateData = {
 	ms: {
 		name: 'Mississippi',
 		abbr: 'MS',
-		capitol: 'Jackson',
+		capital: 'Jackson',
 		pop: '2,991,207',
 		statehood: '1817',
 		mammal: 'Bottlenosed Dolphin',
@@ -314,7 +314,7 @@ var stateData = {
 	mo: {
 		name: 'Missouri',
 		abbr: 'MO',
-		capitol: 'Jefferson City',
+		capital: 'Jefferson City',
 		pop: '6,044,171',
 		statehood: '1821',
 		mammal: 'Missouri Mule',
@@ -326,7 +326,7 @@ var stateData = {
 	mt: {
 		name: 'Montana',
 		abbr: 'MT',
-		capitol: 'Helena',
+		capital: 'Helena',
 		pop: '1,015,165',
 		statehood: '1889',
 		mammal: 'Grizzly Bear',
@@ -338,7 +338,7 @@ var stateData = {
 	ne: {
 		name: 'Nebraska',
 		abbr: 'NE',
-		capitol: 'Lincoln',
+		capital: 'Lincoln',
 		pop: '1,868,516',
 		statehood: '1867',
 		mammal: 'White-Tailed Deer',
@@ -350,7 +350,7 @@ var stateData = {
 	nv: {
 		name: 'Nevada',
 		abbr: 'NV',
-		capitol: 'Carson City',
+		capital: 'Carson City',
 		pop: '2,790,136',
 		statehood: '1864',
 		mammal: 'Desert Bighorn Sheep',
@@ -362,7 +362,7 @@ var stateData = {
 	nh: {
 		name: 'New Hampshire',
 		abbr: 'NH',
-		capitol: 'Concord',
+		capital: 'Concord',
 		pop: '1,323,459',
 		statehood: '1788',
 		mammal: 'White-Tailed Deer',
@@ -374,7 +374,7 @@ var stateData = {
 	nj: {
 		name: 'New Jersey',
 		abbr: 'NJ',
-		capitol: 'Trenton',
+		capital: 'Trenton',
 		pop: '1,323,459',
 		statehood: '1787',
 		mammal: 'Horse',
@@ -386,7 +386,7 @@ var stateData = {
 	nm: {
 		name: 'New Mexico',
 		abbr: 'NM',
-		capitol: 'Santa Fe',
+		capital: 'Santa Fe',
 		pop: '1,323,459',
 		statehood: '1912',
 		mammal: 'American Black Bear',
@@ -398,7 +398,7 @@ var stateData = {
 	ny: {
 		name: 'New York',
 		abbr: 'NY',
-		capitol: 'Albany',
+		capital: 'Albany',
 		pop: '19,651,127',
 		statehood: '1788',
 		mammal: 'Beaver',
@@ -410,7 +410,7 @@ var stateData = {
 	nc: {
 		name: 'North Carolina',
 		abbr: 'NC',
-		capitol: 'Raleigh',
+		capital: 'Raleigh',
 		pop: '9,848,060',
 		statehood: '1789',
 		mammal: 'Gray Squirrel',
@@ -422,7 +422,7 @@ var stateData = {
 	nd: {
 		name: 'North Dakota',
 		abbr: 'ND',
-		capitol: 'Bismarck',
+		capital: 'Bismarck',
 		pop: '723,393',
 		statehood: '1889',
 		mammal: 'Nokota Horse',
@@ -434,7 +434,7 @@ var stateData = {
 	oh: {
 		name: 'Ohio',
 		abbr: 'OH',
-		capitol: 'Columbus',
+		capital: 'Columbus',
 		pop: '11,570,808',
 		statehood: '1803',
 		mammal: 'White-Tailed Deer',
@@ -446,7 +446,7 @@ var stateData = {
 	ok: {
 		name: 'Oklahoma',
 		abbr: 'OK',
-		capitol: 'Oklahoma City',
+		capital: 'Oklahoma City',
 		pop: '3,850,568',
 		statehood: '1907',
 		mammal: 'Raccoon',
@@ -458,7 +458,7 @@ var stateData = {
 	or: {
 		name: 'Oregon',
 		abbr: 'OR',
-		capitol: 'Salem',
+		capital: 'Salem',
 		pop: '3,930,065',
 		statehood: '1859',
 		mammal: 'American Beaver',
@@ -470,7 +470,7 @@ var stateData = {
 	pa: {
 		name: 'Pennsylvania',
 		abbr: 'PA',
-		capitol: 'Harrisburg',
+		capital: 'Harrisburg',
 		pop: '12,773,801',
 		statehood: '1787',
 		mammal: 'White-Tailed Deer',
@@ -482,7 +482,7 @@ var stateData = {
 	ri: {
 		name: 'Rhode Island',
 		abbr: 'RI',
-		capitol: 'Providence',
+		capital: 'Providence',
 		pop: '1,051,511',
 		statehood: '1790',
 		mammal: 'N/A',
@@ -494,7 +494,7 @@ var stateData = {
 	sc: {
 		name: 'South Carolina',
 		abbr: 'SC',
-		capitol: 'Columbia',
+		capital: 'Columbia',
 		pop: '4,774,839',
 		statehood: '1788',
 		mammal: 'White-Tailed Deer',
@@ -506,7 +506,7 @@ var stateData = {
 	sd: {
 		name: 'South Dakota',
 		abbr: 'SD',
-		capitol: 'Pierre',
+		capital: 'Pierre',
 		pop: '844,877',
 		statehood: '1889',
 		mammal: 'Coyote',
@@ -518,7 +518,7 @@ var stateData = {
 	tn: {
 		name: 'Tennessee',
 		abbr: 'TN',
-		capitol: 'Nashville',
+		capital: 'Nashville',
 		pop: '6,495,978',
 		statehood: '1796',
 		mammal: 'Raccoon',
@@ -530,7 +530,7 @@ var stateData = {
 	tx: {
 		name: 'Texas',
 		abbr: 'TX',
-		capitol: 'Austin',
+		capital: 'Austin',
 		pop: '26,448,193',
 		statehood: '1845',
 		mammal: 'Longhorn',
@@ -542,7 +542,7 @@ var stateData = {
 	ut: {
 		name: 'Utah',
 		abbr: 'UT',
-		capitol: 'Salt Lake City',
+		capital: 'Salt Lake City',
 		pop: '2,900,872',
 		statehood: '1896',
 		mammal: 'Rock-Mountain Elk',
@@ -554,7 +554,7 @@ var stateData = {
 	vt: {
 		name: 'Vermont',
 		abbr: 'VT',
-		capitol: 'Montpelier',
+		capital: 'Montpelier',
 		pop: '626,630',
 		statehood: '1791',
 		mammal: 'Morgan Horse',
@@ -566,7 +566,7 @@ var stateData = {
 	va: {
 		name: 'Virginia',
 		abbr: 'VA',
-		capitol: 'Richmond',
+		capital: 'Richmond',
 		pop: '8,260,405',
 		statehood: '1788',
 		mammal: 'Virginia Big-Eared Bat',
@@ -578,7 +578,7 @@ var stateData = {
 	wa: {
 		name: 'Washington',
 		abbr: 'WA',
-		capitol: 'Olympia',
+		capital: 'Olympia',
 		pop: '6,971,406',
 		statehood: '1889',
 		mammal: 'Olympic Marmot',
@@ -590,7 +590,7 @@ var stateData = {
 	dc: {
 		name: 'Washington, District of Columbia',
 		abbr: 'DC',
-		capitol: 'N/A',
+		capital: 'N/A',
 		pop: '658,893',
 		statehood: 'N/A',
 		mammal: 'N/A',
@@ -602,7 +602,7 @@ var stateData = {
 	wv: {
 		name: 'West Virginia',
 		abbr: 'WV',
-		capitol: 'Charleston',
+		capital: 'Charleston',
 		pop: '1,854,304',
 		statehood: '1863',
 		mammal: 'Black Bear',
@@ -614,7 +614,7 @@ var stateData = {
 	wi: {
 		name: 'Wisconsin',
 		abbr: 'WI',
-		capitol: 'Madison',
+		capital: 'Madison',
 		pop: '5,742,713',
 		statehood: '1848',
 		mammal: 'Badger',
@@ -626,7 +626,7 @@ var stateData = {
 	wy: {
 		name: 'Wyoming',
 		abbr: 'WY',
-		capitol: 'Cheyenne',
+		capital: 'Cheyenne',
 		pop: '582,658',
 		statehood: '1890',
 		mammal: 'American Buffalo',
